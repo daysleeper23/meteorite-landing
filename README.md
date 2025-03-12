@@ -1,6 +1,6 @@
 # Meteorites Landing Map
 
-This web application visualizes NASA's meteorite landing data on an [OpenStreetMap](https://www.openstreetmap.org/) map using [Leaflet](https://leafletjs.com/) and [React Leaflet](https://react-leaflet.js.org/), allowing you to explore where meteorites have landed around the globe. 
+This web application visualizes NASA's geospatial data of meteorite landing on an [OpenStreetMap](https://www.openstreetmap.org/) map using [Leaflet](https://leafletjs.com/) and [React Leaflet](https://react-leaflet.js.org/), allowing you to explore where meteorites have landed around the globe. 
 
 ## Getting Started
 
